@@ -1,0 +1,7 @@
+[package]
+name = "simple_rust_web_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"  # Using Actix-web version 4
